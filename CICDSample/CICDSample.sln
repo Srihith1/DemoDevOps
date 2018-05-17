@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CICDSample", "CICDSample\CI
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CICDSample.Tests", "CICDSample.Tests\CICDSample.Tests.csproj", "{3CA446F1-1645-4BA6-AF11-BA085E679772}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeleniumTests", "SeleniumTests\SeleniumTests.csproj", "{46436958-7C23-400E-8631-DC3E084023A2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{3CA446F1-1645-4BA6-AF11-BA085E679772}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3CA446F1-1645-4BA6-AF11-BA085E679772}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3CA446F1-1645-4BA6-AF11-BA085E679772}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46436958-7C23-400E-8631-DC3E084023A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46436958-7C23-400E-8631-DC3E084023A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46436958-7C23-400E-8631-DC3E084023A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46436958-7C23-400E-8631-DC3E084023A2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
